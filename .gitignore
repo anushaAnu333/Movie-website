@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# build/output dirs (if you have them)
+dist/
+build/
